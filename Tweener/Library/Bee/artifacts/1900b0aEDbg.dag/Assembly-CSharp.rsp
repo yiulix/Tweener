@@ -293,6 +293,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.18f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.18f1c1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Rider.Editor.ref.dll"
+"Assets/Scripts/BuildGame.cs"
 "Assets/Scripts/EaseUtil.cs"
 "Assets/Scripts/Example.cs"
 "Assets/Scripts/Tweener.cs"

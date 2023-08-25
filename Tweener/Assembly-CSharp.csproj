@@ -42,10 +42,11 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\EaseUtil.cs" />
-     <Compile Include="Assets\Scripts\Tweener.cs" />
      <Compile Include="Assets\Scripts\UIComponentExtension.cs" />
      <Compile Include="Assets\Scripts\Example.cs" />
+     <Compile Include="Assets\Scripts\Tweener.cs" />
      <Compile Include="Assets\Scripts\TweenerManager.cs" />
+     <Compile Include="Assets\Scripts\BuildGame.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Scripts" />
      <Folder Include="Assets\Scenes" />
@@ -572,7 +573,7 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.18f1c1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>C:\Users\zhuge\Tweener\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     <HintPath>C:\Tweener\Tweener\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
